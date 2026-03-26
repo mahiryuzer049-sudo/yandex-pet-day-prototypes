@@ -1,36 +1,18 @@
-# Yandex Pet Day Pages Deploy
+# Yandex Pet Day
 
-Публичный deploy-репозиторий для актуальной статической сборки `Yandex Pet Day`.
+Публичный preview-репозиторий с двумя web-концептами лендинга конференции `Yandex Pet Day`.
 
-## Что внутри
-- `index.html` - хаб с двумя вариантами
-- `variant-a/` и `variant-a.html` - текущий основной submission-вариант
-- `variant-b/` и `variant-b.html` - альтернативный концепт
-- `privacy/` и `privacy.html` - страница политики конфиденциальности
-- `_next/static/` - стили и статика из production build
-- `variant-a-assets/` - медиа для `Variant A`
-
-## Публичные ссылки
+## Смотреть
 - Hub: `https://mahiryuzer049-sudo.github.io/yandex-pet-day-prototypes/`
 - Variant A: `https://mahiryuzer049-sudo.github.io/yandex-pet-day-prototypes/variant-a/`
 - Variant B: `https://mahiryuzer049-sudo.github.io/yandex-pet-day-prototypes/variant-b/`
 
-## Как обновляется
-Исходный `Next.js`-проект живёт в:
+## Что внутри
+- `Variant A` — основной, более системный и product-oriented вариант
+- `Variant B` — более смелый editorial-концепт
+- `Privacy` — отдельная страница политики конфиденциальности
 
-`C:\Users\frolo\Documents\Playground\yandex-pet-day-test\web`
-
-После `npm run build` статический export для GitHub Pages собирается скриптом:
-
-`python scripts/export_github_pages.py`
-
-Скрипт:
-- берёт prerendered HTML из `.next/server/app`
-- убирает `Next.js` runtime и `next/image`
-- переписывает пути под base path репозитория
-- копирует `_next/static`, `public/` и favicon в этот deploy-репозиторий
-
-## Зачем это нужно
-- открыть текущий сайт в сети без локального сервера
-- смотреть `Variant A` и `Variant B` как живые страницы
-- использовать публичную ссылку для ревью и дальнейшего переноса в Figma
+## Назначение
+- показать сайт в браузере как живой прототип
+- использовать публичную ссылку для ревью
+- служить веб-preview перед дальнейшей сборкой в Figma
