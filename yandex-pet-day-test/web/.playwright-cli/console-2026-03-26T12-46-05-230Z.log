@@ -1,2 +1,0 @@
-[ 2617384ms] [WARNING] Image with src "/variant-a-assets/hero-scene-editorial-v1.png" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative. @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
-[ 2617408ms] [WARNING] Image with src "/variant-a-assets/interlude-pet-tech-panel-v1.png" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative. @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_115brz8._.js:2431
