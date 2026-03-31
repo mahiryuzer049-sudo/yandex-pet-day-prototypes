@@ -1,0 +1,372 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - link "Конференция Яндекс Крауда Yandex Pet Day 20 июня 2025 · Москва и онлайн" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e9]:
+          - generic [ref=e10]: Конференция Яндекс Крауда
+          - strong [ref=e11]: Yandex Pet Day
+          - generic [ref=e12]: 20 июня 2025 · Москва и онлайн
+      - navigation "Основная навигация" [ref=e13]:
+        - link "О конференции" [ref=e14] [cursor=pointer]:
+          - /url: "#about"
+        - link "Программа" [ref=e15] [cursor=pointer]:
+          - /url: "#program"
+        - link "Спикеры" [ref=e16] [cursor=pointer]:
+          - /url: "#speakers"
+        - link "Вопросы" [ref=e17] [cursor=pointer]:
+          - /url: "#faq"
+        - link "Регистрация" [ref=e18] [cursor=pointer]:
+          - /url: "#registration"
+      - link "Зарегистрироваться" [ref=e20] [cursor=pointer]:
+        - /url: "#registration"
+  - main [ref=e21]:
+    - region "Yandex Pet Day" [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - generic [ref=e26]: Конференция Яндекс Крауда
+            - generic [ref=e27]: 20 июня 2025
+            - generic [ref=e28]: Москва и онлайн
+          - heading "Yandex Pet Day" [level=1] [ref=e29]:
+            - generic [ref=e30]: Yandex
+            - generic [ref=e31]: Pet Day
+          - paragraph [ref=e32]: Конференция для дизайнеров, продактов и разработчиков, которые делают сервисы для владельцев домашних животных. Один день, чтобы спокойно разобрать AI, продуктовые механики, язык бренда и рынок pet-tech без параллельных треков и проходных слотов.
+          - generic [ref=e33]:
+            - article [ref=e34]:
+              - generic [ref=e35]: Дата и старт
+              - strong [ref=e36]: 20 июня 2025, 11:00
+              - generic [ref=e37]: Сбор гостей с 10:00
+            - article [ref=e38]:
+              - generic [ref=e39]: Площадка
+              - strong [ref=e40]: Академия, Москва
+              - generic [ref=e41]: Ленинградский проспект 36
+            - article [ref=e42]:
+              - generic [ref=e43]: Формат
+              - strong [ref=e44]: Офлайн и онлайн
+              - generic [ref=e45]: Одна программа для всех участников
+          - generic [ref=e46]:
+            - link "Зарегистрироваться" [ref=e47] [cursor=pointer]:
+              - /url: "#registration"
+            - link "Смотреть программу →" [ref=e48] [cursor=pointer]:
+              - /url: "#program"
+          - paragraph [ref=e49]: Регистрация бесплатная. На почту придет подтверждение участия, а после события мы отправим записи и материалы.
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - generic [ref=e53]: Один день продуктового разговора
+            - generic [ref=e54]: 20 июня 2025
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - generic [ref=e57]: Pet-tech
+              - generic [ref=e58]: AI
+              - generic [ref=e59]: UX
+            - generic [ref=e60]:
+              - strong [ref=e61]: 20/06
+              - generic [ref=e62]: Москва
+          - generic [ref=e64]:
+            - article [ref=e65]:
+              - generic [ref=e66]: Фокус
+              - strong [ref=e67]: Pet-tech, AI и UX
+            - article [ref=e68]:
+              - generic [ref=e69]: Программа
+              - strong [ref=e70]: 3 доклада + дискуссия
+            - article [ref=e71]:
+              - generic [ref=e72]: После события
+              - strong [ref=e73]: Записи и материалы
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - generic [ref=e77]: О конференции
+        - 'heading "Конференция собрана как ясная продуктовая презентация: люди, кейсы и разговор по делу." [level=2] [ref=e78]'
+        - paragraph [ref=e79]: Yandex Pet Day нужен тем, кто работает на пересечении интерфейсов, технологий, рынка и поведения пользователей. Это не витрина трендов, а короткий маршрут по тому, как устроен pet-tech сегодня и какие решения действительно работают.
+      - generic [ref=e80]:
+        - article [ref=e81]:
+          - generic [ref=e83]: Формат участия
+          - heading "Выбрать удобный формат" [level=3] [ref=e84]
+          - paragraph [ref=e85]: Прийти лично в Москве или подключиться к трансляции из любой точки, если важен контент без поездки.
+          - strong [ref=e86]: Офлайн и онлайн собраны как единый сценарий, а не как два отдельных продукта.
+        - article [ref=e87]:
+          - generic [ref=e89]: Люди рынка
+          - heading "Найти сильные контакты" [level=3] [ref=e90]
+          - paragraph [ref=e91]: На площадке соберутся продуктовые люди, дизайнеры, маркетологи, фаундеры и представители pet-tech.
+          - strong [ref=e92]: Нетворкинг встроен в структуру дня и не выглядит формальной припиской к программе.
+        - article [ref=e93]:
+          - generic [ref=e95]: Практический результат
+          - heading "Забрать рабочие механики" [level=3] [ref=e96]
+          - paragraph [ref=e97]: Уйти не с общими трендами, а с практическими идеями, которые можно применить в собственном продукте.
+          - strong [ref=e98]: Главная ценность здесь не вдохновиться, а вынести рабочие приемы в свой продукт.
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - generic [ref=e103]: Программа
+        - 'heading "Плотный ритм без пустых слотов: доклады, пауза, дискуссия и время на разговор." [level=2] [ref=e104]'
+        - paragraph [ref=e105]: Вся программа идет в одном потоке, поэтому расписание читается сверху вниз без конфликтов внимания и лишней навигации.
+      - generic [ref=e106]:
+        - article [ref=e107]:
+          - generic [ref=e108]:
+            - generic [ref=e109]: 10:00 - 10:30
+            - generic [ref=e110]: 30 мин
+          - generic [ref=e111]:
+            - generic [ref=e112]:
+              - generic [ref=e113]: Нетворкинг
+              - generic [ref=e114]: 30 мин
+            - heading "Приветственный кофе и нетворкинг" [level=3] [ref=e115]
+            - paragraph [ref=e116]: Первый живой контакт с участниками и партнерами конференции. Только офлайн.
+        - article [ref=e117]:
+          - generic [ref=e118]:
+            - generic [ref=e119]: 11:00 - 11:30
+            - generic [ref=e120]: 30 мин
+          - generic [ref=e121]:
+            - generic [ref=e122]:
+              - generic [ref=e123]: Открытие
+              - generic [ref=e124]: 30 мин
+            - heading "Вводное слово" [level=3] [ref=e125]
+            - paragraph [ref=e126]: Старт дня, рамка конференции и ключевые темы для всей pet-tech-повестки.
+        - article [ref=e127]:
+          - generic [ref=e128]:
+            - generic [ref=e129]: 11:30 - 12:10
+            - generic [ref=e130]: 40 мин
+          - generic [ref=e131]:
+            - generic [ref=e132]:
+              - generic [ref=e133]: Доклад
+              - generic [ref=e134]: 40 мин
+            - heading "Компьютерное зрение в ветеринарии" [level=3] [ref=e135]
+            - paragraph [ref=e136]: Андрей Соколов, Head of Product Design, Яндекс
+        - article [ref=e137]:
+          - generic [ref=e138]:
+            - generic [ref=e139]: 12:10 - 12:50
+            - generic [ref=e140]: 40 мин
+          - generic [ref=e141]:
+            - generic [ref=e142]:
+              - generic [ref=e143]: Доклад
+              - generic [ref=e144]: 40 мин
+            - heading "Зооморфизм как драйвер лояльности" [level=3] [ref=e145]
+            - paragraph [ref=e146]: Мария Подольская, Head of AI, Лаборатория инноваций
+        - article [ref=e147]:
+          - generic [ref=e148]:
+            - generic [ref=e149]: 12:50 - 13:10
+            - generic [ref=e150]: 20 мин
+          - generic [ref=e151]:
+            - strong [ref=e152]: Перерыв
+            - paragraph [ref=e153]: Небольшая пауза перед бизнес-блоком и дискуссией.
+        - article [ref=e154]:
+          - generic [ref=e155]:
+            - generic [ref=e156]: 13:10 - 13:40
+            - generic [ref=e157]: 30 мин
+          - generic [ref=e158]:
+            - generic [ref=e159]:
+              - generic [ref=e160]: Доклад
+              - generic [ref=e161]: 30 мин
+            - 'heading "От стартапа до маркетплейса: ошибки и победы" [level=3] [ref=e162]'
+            - paragraph [ref=e163]: Павел Сидоров, CEO, Зоо-Маркет
+        - article [ref=e164]:
+          - generic [ref=e165]:
+            - generic [ref=e166]: 13:40 - 15:00
+            - generic [ref=e167]: 80 мин
+          - generic [ref=e168]:
+            - generic [ref=e169]:
+              - generic [ref=e170]: Дискуссия
+              - generic [ref=e171]: 80 мин
+            - heading "Инвестиции в Pet-технологии" [level=3] [ref=e172]
+            - paragraph [ref=e173]: Панельная дискуссия про масштаб, рынок, риски и точки роста.
+        - article [ref=e174]:
+          - generic [ref=e175]:
+            - generic [ref=e176]: 15:00 - 16:30
+            - generic [ref=e177]: 90 мин
+          - generic [ref=e178]:
+            - generic [ref=e179]:
+              - generic [ref=e180]: Нетворкинг
+              - generic [ref=e181]: 90 мин
+            - heading "Открытые разговоры и знакомства" [level=3] [ref=e182]
+            - paragraph [ref=e183]: Завершающий блок для общения, знакомств и неформального обмена идеями.
+    - generic [ref=e185]:
+      - generic [ref=e186]:
+        - generic [ref=e187]: Спикеры
+        - heading "Люди, за которыми стоит реальная практика, а не абстрактная экспертность." [level=2] [ref=e188]
+        - paragraph [ref=e189]: "В центре секции не декоративный портрет, а то, что именно человек приносит в программу: опыт, тезис и конкретный угол зрения на рынок."
+      - generic [ref=e190]:
+        - article [ref=e191]:
+          - img "Портрет спикера Андрей Соколов" [ref=e194]
+          - generic [ref=e195]:
+            - generic [ref=e196]:
+              - generic [ref=e197]: Дизайн и технология
+              - generic [ref=e198]: Head of Product Design, Яндекс
+            - heading "Андрей Соколов" [level=3] [ref=e199]
+            - strong [ref=e200]: Как компьютерное зрение становится прикладным сценарием для pet-сервиса
+            - paragraph [ref=e201]: "Разбор реального технологического кейса без академической абстракции: от задачи до пользовательской ценности."
+            - paragraph [ref=e202]: Говорит о компьютерном зрении в ветеринарии и о том, как технологии переходят в прикладную ценность для pet-сервисов.
+        - article [ref=e203]:
+          - img "Портрет спикера Мария Подольская" [ref=e206]
+          - generic [ref=e207]:
+            - generic [ref=e208]:
+              - generic [ref=e209]: AI и поведение
+              - generic [ref=e210]: Head of AI, Лаборатория инноваций
+            - heading "Мария Подольская" [level=3] [ref=e211]
+            - strong [ref=e212]: Как зооморфизм влияет на удержание, лояльность и характер интерфейса
+            - paragraph [ref=e213]: Разговор о том, когда визуальный образ работает как часть продукта, а не просто как симпатичный слой.
+            - paragraph [ref=e214]: Разбирает, почему зооморфизм в интерфейсах работает не как декор, а как часть удержания и лояльности.
+        - article [ref=e215]:
+          - img "Портрет спикера Павел Сидоров" [ref=e218]
+          - generic [ref=e219]:
+            - generic [ref=e220]:
+              - generic [ref=e221]: Бизнес и рост
+              - generic [ref=e222]: CEO, Зоо-Маркет
+            - heading "Павел Сидоров" [level=3] [ref=e223]
+            - strong [ref=e224]: Как pet-сервис проходит путь от идеи до устойчивой бизнес-модели
+            - paragraph [ref=e225]: Честный взгляд на ошибки, рынок, масштабирование и решения, которые не видны на красивых презентациях.
+            - paragraph [ref=e226]: Показывает путь от стартапа до pet-маркетплейса и честно говорит об ошибках, росте и зрелости продукта.
+    - generic [ref=e228]:
+      - generic [ref=e229]:
+        - generic [ref=e230]: Форматы участия
+        - heading "Два равнозначных сценария участия. Разница только в том, как тебе удобнее быть внутри дня." [level=2] [ref=e231]
+        - paragraph [ref=e232]: Контент один и тот же для всех участников. Меняется только способ подключения и то, какой тип взаимодействия для тебя сейчас важнее.
+      - generic [ref=e233]:
+        - article [ref=e234]:
+          - generic [ref=e235]:
+            - generic [ref=e236]:
+              - generic [ref=e237]: Офлайн
+              - heading "Москва, Академия" [level=3] [ref=e238]
+            - generic [ref=e239]: Живой контакт
+          - paragraph [ref=e240]: Ленинградский проспект 36. Живой контакт со спикерами, нетворкинг и ощущение события в реальном пространстве.
+          - generic [ref=e241]:
+            - article [ref=e242]:
+              - generic [ref=e243]: Кому подходит
+              - strong [ref=e244]: важны атмосфера площадки, быстрые знакомства и живой контакт со спикерами после сцены.
+            - article [ref=e245]:
+              - generic [ref=e246]: Что получаешь
+              - strong [ref=e247]: Площадка, нетворкинг и живой разговор после программы в одном маршруте дня.
+          - list [ref=e248]:
+            - listitem [ref=e249]: Приветственный кофе и нетворкинг
+            - listitem [ref=e250]: Личное общение после программы
+            - listitem [ref=e251]: Максимальная плотность контактов за один день
+        - article [ref=e252]:
+          - generic [ref=e253]:
+            - generic [ref=e254]:
+              - generic [ref=e255]: Онлайн
+              - heading "Трансляция на почту" [level=3] [ref=e256]
+            - generic [ref=e257]: Гибкое подключение
+          - paragraph [ref=e258]: Подойдет, если важнее содержание, чем поездка. Ссылку на трансляцию отправим за час до старта конференции.
+          - generic [ref=e259]:
+            - article [ref=e260]:
+              - generic [ref=e261]: Кому подходит
+              - strong [ref=e262]: нужно забрать содержание программы без поездки и подключиться из любого города.
+            - article [ref=e263]:
+              - generic [ref=e264]: Что получаешь
+              - strong [ref=e265]: Спокойное подключение, ссылка на трансляцию и материалы после события без потери содержания.
+          - list [ref=e266]:
+            - listitem [ref=e267]: Доступ из любой точки
+            - listitem [ref=e268]: Подключение без логистики и дороги
+            - listitem [ref=e269]: Материалы и записи после события
+    - generic [ref=e272]:
+      - generic [ref=e273]:
+        - generic [ref=e274]: Вопросы
+        - heading "Все, что мешает спокойно решить \"иду или не иду\", лучше снять сразу." [level=2] [ref=e275]
+        - paragraph [ref=e276]: "Мы собрали только те вопросы, которые действительно влияют на решение об участии: кому полезна программа, как работает онлайн, можно ли прийти с питомцем и что будет после события."
+        - generic [ref=e277]:
+          - article [ref=e278]:
+            - generic [ref=e279]: С питомцем
+            - strong [ref=e280]: Офлайн-участие с питомцем возможно по предварительному подтверждению после регистрации.
+          - article [ref=e281]:
+            - generic [ref=e282]: Материалы
+            - strong [ref=e283]: Записи, презентации и дополнительные материалы получают все зарегистрированные участники.
+          - article [ref=e284]:
+            - generic [ref=e285]: Подтверждение
+            - strong [ref=e286]: На почту приходит подтверждение участия, формат и дальнейшие инструкции по событию.
+      - generic [ref=e288]:
+        - group [ref=e289]:
+          - generic "01 Кому точно стоит прийти на конференцию? −" [ref=e290] [cursor=pointer]:
+            - generic [ref=e291]:
+              - generic [ref=e292]: "01"
+              - generic [ref=e293]: Кому точно стоит прийти на конференцию?
+            - text: −
+          - paragraph [ref=e294]: "Тем, кто создает digital-продукты в pet-сфере или хочет глубже понять этот рынок: продактам, дизайнерам, разработчикам, маркетологам, владельцам сервисов и фаундерам. Программа собрана так, чтобы быть полезной и тем, кто уже внутри pet-tech, и тем, кто только присматривается к этой категории."
+        - group [ref=e295]:
+          - generic "02 Можно ли прийти с питомцем? +" [ref=e296] [cursor=pointer]:
+            - generic [ref=e297]:
+              - generic [ref=e298]: "02"
+              - generic [ref=e299]: Можно ли прийти с питомцем?
+            - text: +
+        - group [ref=e300]:
+          - generic "03 Будет ли запись для онлайн-участников? +" [ref=e301] [cursor=pointer]:
+            - generic [ref=e302]:
+              - generic [ref=e303]: "03"
+              - generic [ref=e304]: Будет ли запись для онлайн-участников?
+            - text: +
+        - group [ref=e305]:
+          - generic "04 Есть ли смысл ехать из другого города? +" [ref=e306] [cursor=pointer]:
+            - generic [ref=e307]:
+              - generic [ref=e308]: "04"
+              - generic [ref=e309]: Есть ли смысл ехать из другого города?
+            - text: +
+    - generic [ref=e312]:
+      - generic [ref=e313]:
+        - generic [ref=e314]: После регистрации
+        - heading "Что произойдет после заявки" [level=2] [ref=e315]
+        - paragraph [ref=e316]: Письмо с подтверждением приходит сразу. Дальше мы отправляем только детали участия, ссылку на трансляцию и материалы после события без лишних писем.
+        - generic [ref=e317]:
+          - article [ref=e318]:
+            - generic [ref=e319]: 1. Заявка
+            - strong [ref=e320]: Заполняешь имя, почту и удобный формат участия.
+          - article [ref=e321]:
+            - generic [ref=e322]: 2. Подтверждение
+            - strong [ref=e323]: Мы сразу отправляем письмо с подтверждением и следующими шагами.
+          - article [ref=e324]:
+            - generic [ref=e325]: 3. Участие
+            - strong [ref=e326]: Офлайн-гостям отправим детали площадки, онлайн-участникам пришлем ссылку на трансляцию.
+      - generic [ref=e327]:
+        - generic [ref=e328]:
+          - generic [ref=e329]: Форма участия
+          - paragraph [ref=e330]: Заполнение занимает меньше двух минут. Подтверждение и детали участия приходят на почту сразу после отправки формы.
+        - generic [ref=e332]:
+          - generic [ref=e333]:
+            - generic [ref=e334]: Имя
+            - textbox "Имя" [ref=e335]:
+              - /placeholder: Ваше имя
+          - generic [ref=e336]:
+            - generic [ref=e337]: Почта
+            - textbox "Почта" [ref=e338]:
+              - /placeholder: name@example.com
+          - group "Формат участия" [ref=e339]:
+            - generic [ref=e340]: Формат участия
+            - generic [ref=e341]:
+              - generic [ref=e342]:
+                - radio "Офлайн Места на площадке ограничены" [checked] [ref=e343]
+                - generic [ref=e344]:
+                  - strong [ref=e346]: Офлайн
+                  - generic [ref=e348]: Места на площадке ограничены
+              - generic [ref=e349]:
+                - radio "Онлайн Ссылка придет за час до старта" [ref=e350]
+                - generic [ref=e351]:
+                  - strong [ref=e353]: Онлайн
+                  - generic [ref=e355]: Ссылка придет за час до старта
+          - button "Зарегистрироваться" [ref=e356]
+          - paragraph [ref=e357]: Только подтверждение участия, ссылка на трансляцию и материалы после события.
+          - paragraph [ref=e358]:
+            - text: Отправляя форму, вы соглашаетесь с
+            - link "политикой конфиденциальности" [ref=e359] [cursor=pointer]:
+              - /url: /privacy
+            - text: .
+  - contentinfo [ref=e360]:
+    - generic [ref=e362]:
+      - generic [ref=e363]:
+        - generic [ref=e364]: Конференция Яндекс Крауда
+        - strong [ref=e365]: Yandex Pet Day
+        - paragraph [ref=e366]: "Лендинг собран как ясная страница события: программа, спикеры, форматы участия и регистрация без лишнего визуального шума."
+      - generic [ref=e367]:
+        - generic [ref=e368]: Навигация
+        - generic [ref=e369]:
+          - link "О конференции" [ref=e370] [cursor=pointer]:
+            - /url: "#about"
+          - link "Программа" [ref=e371] [cursor=pointer]:
+            - /url: "#program"
+          - link "Спикеры" [ref=e372] [cursor=pointer]:
+            - /url: "#speakers"
+          - link "Регистрация" [ref=e373] [cursor=pointer]:
+            - /url: "#registration"
+      - generic [ref=e374]:
+        - generic [ref=e375]: Организатор и документы
+        - generic [ref=e376]:
+          - paragraph [ref=e377]: "Организатор: Яндекс Крауд"
+          - paragraph [ref=e378]: © Yandex Pet Day, 2025
+          - link "Политика конфиденциальности" [ref=e379] [cursor=pointer]:
+            - /url: /privacy
+          - link "Ответы на вопросы" [ref=e380] [cursor=pointer]:
+            - /url: "#faq"

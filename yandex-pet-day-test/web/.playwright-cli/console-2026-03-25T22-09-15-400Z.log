@@ -1,0 +1,10 @@
+Total messages: 8 (Errors: 7, Warnings: 0)
+Returning 7 messages for level "error"
+
+[ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=W0QlO_Cinof_XyUqCsA9Z' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13299
+[ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=W0QlO_Cinof_XyUqCsA9Z' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13299
+[ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=W0QlO_Cinof_XyUqCsA9Z' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13299
+[ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=W0QlO_Cinof_XyUqCsA9Z' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13299
+[ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=W0QlO_Cinof_XyUqCsA9Z' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13299
+[ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=W0QlO_Cinof_XyUqCsA9Z' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13299
+[ERROR] WebSocket connection to 'ws://127.0.0.1:3000/_next/webpack-hmr?id=W0QlO_Cinof_XyUqCsA9Z' failed: Error during WebSocket handshake: net::ERR_INVALID_HTTP_RESPONSE @ http://127.0.0.1:3000/_next/static/chunks/node_modules_next_dist_client_0fhqo1d._.js:13299
